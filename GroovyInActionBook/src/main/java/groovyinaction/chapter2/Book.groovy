@@ -1,3 +1,4 @@
+package groovyinaction.chapter2
 /**
  * Created by root on 7/29/15.
  */
